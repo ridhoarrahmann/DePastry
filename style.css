@@ -1,0 +1,83 @@
+.navbar .navbar-brand{
+    color: #A65E35 !important;
+    font-size: 30px;
+}
+.navbar .navbar-brand span{
+font-weight: bold;
+}
+.navbar .navbar-nav a{
+    color: #A65E35 !important;
+    font-size: 20px;
+}
+.row{
+    margin: 0px !important;
+}
+.main-content{
+    height: 85vh;
+    padding-top: 100px;
+
+    align-items: center;
+}
+.main-content h1{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 80px;
+    color: #A65E35;
+
+}
+.main-content h5{
+    font-family: "Times New Roman", Times, serif;
+
+    color: #A65E35;
+
+}
+.main-content img{
+    width: 400px;
+}
+.sub-title{
+    color: #A65E35;
+    font-family: 'Times New Roman', Times, serif;
+}
+.product-img{
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+}
+.product-col{
+    padding: 0;
+    margin: 0;
+}
+.article{
+    background-color: #A65E35;
+}
+.packaging{
+ 
+}
+.packaging img{
+    height: 300px;
+    width: 300px;
+}
+.contact-container{
+    width: 80%;
+    background-color: #A65E35;
+}
+.contact img{
+    width: 80%;
+    height: 200px;
+    object-fit: cover;
+}
+.contact h1{
+    font-size: 30px;
+    font-weight: 100;
+    color: white;
+}
+.contact h1 span{
+    font-weight: bold;
+}
+@media (max-width: 767.98px) { 
+    .contact h1{
+        margin-top: 20px;
+        font-size: 20px;
+        font-weight: 100;
+        color: white;
+    }
+ }
